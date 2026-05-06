@@ -20,6 +20,8 @@ Ensure you have Python 3.8+ installed. You will also need the following librarie
 
 Bash
 pip install discord.py groq google-generativeai googlesearch-python
+
+
 2. Configuration
 Create a config.json file in the main folder:
 
