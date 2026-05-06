@@ -45,7 +45,7 @@ python luna.py
 
 !open [app name] — (Owner only) Launch PC apps like Steam or Chrome.
 
-talk to jad (I will make Jade Lunas Siter Open Source Soon) — Triggers a specific conversation loop between bot personas.
+talk to jade (I will make Jade who is Lunas Sister Open Source Soon) — Triggers a specific conversation loop between bot personas.
 
 📂 Project Structure
 luna.py — The main bot logic.
